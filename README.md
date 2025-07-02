@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript por completo**
 
-- 💬 Preguntame sobre **SublimeText**
+- 💬 Preguntame sobre **Angular**
 
 - 📫 Contactame **silank@outlook.com**
 
