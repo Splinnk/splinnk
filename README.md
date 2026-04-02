@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Nik Frías Revelo</h1>
+<h1 align="center">Hola 👋, Soy Nik Frías Revelo</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas, busco oportunidad para adquirir experiencia en desarrollo full stacks y en inteligencia artificial. Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender. Busco oportunidades para hacer prácticas en el área de inteligencia artificial, que permita mi crecimiento intelectual y a desarrollar mis conocimientos técnicos, para crecer junto a la empresa y a mis compañeros de trabajo.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript por completo**
