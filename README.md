@@ -9,12 +9,12 @@
 
 ### 🚀 Sobre mí
 
-- [cite_start]🎓 Estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (2021-2026)[cite: 27, 28].
-- [cite_start]🛠️ Experiencia técnica en **Seguridad y Refactorización de APIs**, migración de datos sensibles y optimización de consultas SQL.
-- [cite_start]💡 Desarrollé módulos con **Java Spring Boot** para automatización de documentos y gestión operativa[cite: 14].
-- [cite_start]🌱 Actualmente profundizando en **JavaScript** y con intereses en **Inteligencia Artificial**[cite: 32].
-- [cite_start]💬 Pregúntame sobre: **Angular, Node.js y PHP**[cite: 32].
-- [cite_start]📫 Cómo contactarme: **silank@outlook.com** 
+- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (2021-2026).
+- 🛠️ Experiencia técnica en **Seguridad y Refactorización de APIs**, migración de datos sensibles y optimización de consultas SQL.
+- 💡 Desarrollé módulos con **Java Spring Boot** para automatización de documentos y gestión operativa.
+- 🌱 Actualmente profundizando en **JavaScript** y con intereses en **Inteligencia Artificial**.
+- 💬 Pregúntame sobre: **Angular, Node.js y PHP**.
+- 📫 Cómo contactarme: **silank@outlook.com** 
 - ⚡ Dato curioso: **Me gustan mucho los perros** 🐕
 
 ---
@@ -46,9 +46,9 @@
 ---
 
 ### 📈 Mis Logros Destacados
-* [cite_start]**Refactorización Crítica:** Lideré la migración de datos sensibles a variables de entorno, eliminando vulnerabilidades en servicios WebLogic[cite: 11].
-* [cite_start]**Optimización SQL:** Reduje significativamente los tiempos de respuesta en sistemas de reportería GIS mediante el rediseño de lógica en el Backend[cite: 12].
-* [cite_start]**Fullstack Development:** Diseñé y desplegué un sistema integral de gestión de turnos para negocios locales[cite: 21, 23].
+* **Refactorización Crítica:** Lideré la migración de datos sensibles a variables de entorno, eliminando vulnerabilidades en servicios WebLogic.
+* **Optimización SQL:** Reduje significativamente los tiempos de respuesta en sistemas de reportería GIS mediante el rediseño de lógica en el Backend.
+* **Fullstack Development:** Diseñé y desplegué un sistema integral de gestión de turnos para negocios locales.
 
 ---
 
