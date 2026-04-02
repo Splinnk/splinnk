@@ -51,7 +51,3 @@
 * **Fullstack Development:** Diseñé y desplegué un sistema integral de gestión de turnos para negocios locales.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Splinnk&show_icons=true&theme=radical" alt="Stats de Splinnk" />
-</p>
